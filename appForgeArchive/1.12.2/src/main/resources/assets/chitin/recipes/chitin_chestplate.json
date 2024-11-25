@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"C C",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "chitin:chitin_shell",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "chitin:chitin_chestplate",
+		"count": 1
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"C",
+		"C",
+		"/"
+	],
+	"key": {
+		"C": {
+			"item": "chitin:chitin_shell",
+			"data": 0
+		},
+		"/": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "chitin:chitin_sword",
+		"count": 1
+	}
+}

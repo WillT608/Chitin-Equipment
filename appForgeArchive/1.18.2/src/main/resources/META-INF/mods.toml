@@ -4,20 +4,20 @@ license = "GPL-3.0-only"
 logoFile = "logo.png"
 
 [[mods]]
-modId = "dirtequipment"
-version = "24.02.29"
-displayName = "Dirt Tools and Armor"
-authors = "Hummel009"
-description = '''This mod adds a set of tools and armor made from dirt.'''
+modId = "chitin"
+version = "1"
+displayName = "Chitin Tools and Armor"
+authors = "WillT608"
+description = '''This mod adds a set of tools and armor made from chitin.'''
 
-[[dependencies.dirtequipment]]
+[[dependencies.chitin]]
 modId = "forge"
 mandatory = true
 versionRange = "[0,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.dirtequipment]]
+[[dependencies.chitin]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.18.2]"

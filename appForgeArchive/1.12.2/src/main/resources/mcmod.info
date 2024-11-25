@@ -1,15 +1,15 @@
 [
 	{
-		"modid": "dirtequipment",
-		"name": "Dirt Tools and Armor",
-		"description": "This mod adds a set of tools and armor made from dirt.",
-		"version": "24.02.29",
+		"modid": "chitin",
+		"name": "Chitin Tools and Armor",
+		"description": "This mod adds a set of tools and armor made from chitin.",
+		"version": "1.0",
 		"mcversion": "1.12.2",
-		"logoFile": "assets/dirtequipment/textures/logo.png",
-		"url": "https://github.com/Hummel009",
+		"logoFile": "assets/chitin/textures/logo.png",
+		"url": "https://github.com/WillT608",
 		"authorList": [
-			"Hummel009"
+			"WT608"
 		],
-		"credits": "Hummel009"
+		"credits": "Hummel009 for his Dirt Tools and Armor mod"
 	}
 ]
